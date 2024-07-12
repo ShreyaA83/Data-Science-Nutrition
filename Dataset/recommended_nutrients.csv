@@ -1,0 +1,6 @@
+Gender,Energy (kcal),Protein (g),Carbohydrate (g),"Sugars, total
+(g)","Fiber, total dietary (g)",Total Fat (g),"Fatty acids, total saturated (g)","Fatty acids, total monounsaturated (g)","Fatty acids, total polyunsaturated (g)",Cholesterol (g),"Vitamin A, RAE (g)",Thiamin (g),Riboflavin (g),Niacin (g),Vitamin B-6 (g),"Folate, total (g)","Choline, total (g)",Vitamin B-12 (g),Vitamin C (g),Vitamin D (D2 + D3) (g),Vitamin E (alpha-tocopherol) (g),Vitamin K (phylloquinone) (g),Calcium (g),Phosphorus (g),Magnesium (g),"Iron
+(g)","Zinc
+(g)",Copper (g),Selenium (g),Potassium (g),Sodium (g),Caffeine (g),Theobromine (g)
+Male,2400.0025,55,130,50,30.8,73.34,26.67,23.3,23.3,0.5,0.0009,0.0012,0.0013,0.016,0.0013,0.0004,0.55,2.40E-06,0.09,600,0.015,0.00012,1,0.7,0.41,0.008,0.011,0.0009,5.50E-05,4.7,2.3,0.4,0.4
+Female,1800,46,130,50,30.8,55,20,17.5,17.5,0.3,0.0007,0.0011,0.0011,0.014,0.0013,0.0004,0.425,2.40E-06,0.075,600,0.015,9.00E-06,0.1,0.7,0.315,0.018,0.008,0.0009,5.50E-05,4.7,2.3,0.4,0.4
